@@ -1,4 +1,5 @@
 # Conversational_AI_Bot
+
 ICWS2020_User Intention Recognition and Requirement Elicitation Method for Conversational AI Service_Project
 
 We push our dataset and project code of experiment in this repository.
@@ -7,9 +8,9 @@ We push our dataset and project code of experiment in this repository.
 
 2020/02 data-processing
 
-We add our dialog_policy test data in data/  
+We add our dialog_policy test data in *data/* 
 
-And we push each module code and input in project/ 
+And we push each module code and input in *project/../* 
 
 > data-normalization
 

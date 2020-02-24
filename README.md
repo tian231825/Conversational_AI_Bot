@@ -7,6 +7,10 @@ We push our dataset and project code of experiment in this repository.
 
 2020/02 data-processing
 
+We add our dialog_policy test data in data/  
+
+And we push each module code and input in project/ 
+
 > data-normalization
 
 **表1-数据处理**

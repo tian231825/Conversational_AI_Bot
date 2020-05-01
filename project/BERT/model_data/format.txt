@@ -1,0 +1,24 @@
+//句子结束 空格/空+ " O\n" 或者 "\n"
+// 当前状态 "\n" 其中 句子中间隔断" O\n"
+
+format:
+
+pro+的+org
+
+loc+org+pro
+
+loc+pro
+
+出现 pro  和org：培训机构/学校/中心 ====> 培训pro的org   +(loc)
+
+XXX培训学校  全句一个org或者pro
+
+pro+pri
+
+org+pro  // pro+org
+
+pro + 学校
+
+age + org   初中/幼儿 英语培训
+
+loc age tim pro  全齐 
